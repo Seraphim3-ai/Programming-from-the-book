@@ -1,2 +1,2 @@
-# Programming-from-the-book
-Programs that I'm practicing from the Intro to Structured Programming book by Liang.
+# Programs-in-IJP
+Programs that I'm practicing from the Intro to Java Programming book by Daniel Liang.
